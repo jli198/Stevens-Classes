@@ -39,7 +39,7 @@ This repository serves as a record for all course I've taken at [Stevens Institu
 * CPE 390 - Microprocessor Systems (4 Credits)
 * ENGR 232 - Engineering Design IV: Systems with Analog Circuits (3 Credits)
 * ENGR 243 - Probability and Statistics for Engineers (3 Credits)
-* EM 275 - Project Management (3 Credits)
+* EM 275 - Project Management (3 Credits) [General Elective]
 * NANO 200 - Introduction to Nanotechnology (3 Credits) [Science Elective II]
 * PE 142 - Physical Education: Bowling (0 Credits, Pass/Fail)
 
@@ -50,15 +50,15 @@ This repository serves as a record for all course I've taken at [Stevens Institu
 * ENGR 321 - Engineering Design V: Design with Materials (2 Credits)
 * ENGR 344 - Materials Processing (3 Credits)
 * ENGR 355 - Engineering Economics (4 Credits)
-* EM 360 - Operations Management and Process Engineering (3 Credits)
+* EM 360 - Operations Management and Process Engineering (3 Credits) [General Elective]
 
 ## Semester VI: Spring 2023 (18 Credits)
 
 * CPE 322 - Computer Engineering Design VI (2 Credits)
 * CPE 345 - Modeling and Simulation (3 Credits)
 * CPE 462 - Introduction to Image Processing and Coding (3 Credits)
-* CPE 551 - Engineering Programming: Python (3 Credits)
-* EM 480 - Managing Development Enterprise (3 Credits)
+* CPE 551 - Engineering Programming: Python (3 Credits) [Tech Elective]
+* EM 480 - Managing Development Enterprise (3 Credits) [General Elective]
 * HST 325 - Visualizing Society (3 Credits) [Humanities]
 * IDE 400 - Senior Innovation I: PRoject Planning (1 Credit)
 
@@ -69,9 +69,9 @@ This repository serves as a record for all course I've taken at [Stevens Institu
 * CPE 423 - Computer Engineering Senior Design VII (3 Credits)
 * CPE 487 - Digital System Design (3 Credits)
 * IDE 401 - Senior Innovation II: Value Proposition (1 Credit)
-* CPE 592 - Computer and Multimedia Network Security (3 Credits)
-* EE 582 - Wireless Networking: Architectures, Protocols, and Standards (3 Credits)
-* EE 584 - Wireless Systems Security (3 Credits)
+* CPE 592 - Computer and Multimedia Network Security (3 Credits) [Tech Elective]
+* EE 582 - Wireless Networking: Architectures, Protocols, and Standards (3 Credits) [Tech Elective]
+* EE 584 - Wireless Systems Security (3 Credits) [Tech Elective]
 * SSW 540 - Fundamentals of Software Engineering (3 Credits)
 
 ## Semester VIII: Spring 2024 (13 Credits)
@@ -79,7 +79,7 @@ This repository serves as a record for all course I've taken at [Stevens Institu
 * CPE 424 - Computer Engineering Senior Design VIII (3 Credits)
 * IDE 401 - Senior Innovation II (1 Credit)
 
-### Coursework for Masters of Engineering (MEng) in Systems Engineering (9 Credits)
+### Coursework for Masters of Engineering (MEng) in Systems Engineering - Concentrating in Software Systems (9 Credits)
 
 * EM 612: Project Management of Complex Systems (3 Credits)
 * SSW 590: DevOps Principles and Practices (3 Credits)
