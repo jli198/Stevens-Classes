@@ -60,7 +60,7 @@ This repository serves as a record for all course I've taken at [Stevens Institu
 * CPE 551 - Engineering Programming: Python (3 Credits) [Tech Elective]
 * EM 480 - Managing Development Enterprise (3 Credits) [General Elective]
 * HST 325 - Visualizing Society (3 Credits) [Humanities]
-* IDE 400 - Senior Innovation I: PRoject Planning (1 Credit)
+* IDE 400 - Senior Innovation I: Project Planning (1 Credit)
 
 ## Future Courses
 
