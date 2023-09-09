@@ -62,8 +62,6 @@ This repository serves as a record for all course I've taken at [Stevens Institu
 * HST 325 - Visualizing Society (3 Credits) [Humanities]
 * IDE 400 - Senior Innovation I: Project Planning (1 Credit)
 
-## Future Courses
-
 ## Semester VII: Fall 2023 (19 Credits)
 
 * CPE 423 - Computer Engineering Senior Design VII (3 Credits)
@@ -73,6 +71,8 @@ This repository serves as a record for all course I've taken at [Stevens Institu
 * EE 582 - Wireless Networking: Architectures, Protocols, and Standards (3 Credits) [Tech Elective]
 * EE 584 - Wireless Systems Security (3 Credits) [Tech Elective]
 * SSW 540 - Fundamentals of Software Engineering (3 Credits)
+
+## Future Courses
 
 ## Semester VIII: Spring 2024 (13 Credits)
 
