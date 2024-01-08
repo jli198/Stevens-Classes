@@ -2,6 +2,10 @@
 
 This repository serves as a record for all course I've taken at [Stevens Institute of Technology](https://www.stevens.edu/). Classes are listed in the order they appear on my study plan.
 
+## Bachelors of Engineering - BE, Computer Engineering - Networks and Security Concentration
+
+### Minor in Engineering Management
+
 ## Semeseter I: Fall 2020 (15 Credits)
 
 * CH 115 - General Chemistry I (3 Credits)
@@ -77,7 +81,7 @@ This repository serves as a record for all course I've taken at [Stevens Institu
 * CPE 424 - Computer Engineering Senior Design VIII (3 Credits)
 * IDE 401 - Senior Innovation II (1 Credit)
 
-### Coursework for Masters of Engineering (MEng) in Systems Engineering - Concentrating in Software Systems (9 Credits)
+### Coursework for Masters of Engineering (MEng) in Systems Engineering - Software Systems Concentration (9 Credits)
 
 * EM 612: Project Management of Complex Systems (3 Credits)
 * SSW 590: DevOps Principles and Practices (3 Credits)
@@ -85,7 +89,7 @@ This repository serves as a record for all course I've taken at [Stevens Institu
 
 ## Future Courses
 
-## Semester IX: Fall 2024 - Masters of Engineering (MEng) in Systems Engineering - Concentrating in Software Systems (12 Credits)
+## Semester IX: Fall 2024 - Masters of Engineering (MEng) in Systems Engineering - Software Systems Concentration (12 Credits)
 
 * SSW 565 - Software Architecture and Component-Based Design (3 Credits)
 * SSW 567 - Software Testing, Quality Assurance and Maintenance (3 Credits)
