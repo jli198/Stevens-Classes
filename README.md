@@ -72,8 +72,6 @@ This repository serves as a record for all course I've taken at [Stevens Institu
 * EE 584 - Wireless Systems Security (3 Credits) [Tech Elective]
 * SSW 540 - Fundamentals of Software Engineering (3 Credits)
 
-## Future Courses
-
 ## Semester VIII: Spring 2024 (13 Credits)
 
 * CPE 424 - Computer Engineering Senior Design VIII (3 Credits)
@@ -85,7 +83,9 @@ This repository serves as a record for all course I've taken at [Stevens Institu
 * SSW 590: DevOps Principles and Practices (3 Credits)
 * SYS 625: Fundamentals of Systems Engineering (3 Credits)
 
-## Semester IX: Fall 2024 (12 Credits) - Masters of Engineering (MEng) in Systems Engineering
+## Future Courses
+
+## Semester IX: Fall 2024 - Masters of Engineering (MEng) in Systems Engineering - Concentrating in Software Systems (12 Credits)
 
 * SSW 565 - Software Architecture and Component-Based Design (3 Credits)
 * SSW 567 - Software Testing, Quality Assurance and Maintenance (3 Credits)
