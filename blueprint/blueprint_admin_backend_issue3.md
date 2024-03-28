@@ -2,7 +2,7 @@
 
 1. Setup a separate branch: `git checkout -b ci/docker`. The -b flag creates a new branch and switches to it immediately.
 2. Copy [Gradle Dockerfile](https://codefresh.io/docs/docs/example-catalog/ci-examples/gradle/).
-3. Run `docker build -t admin_backend .`. -t is the tag. We can name it whatever. For convenience, we went with admin_backend. The dot means in the current directory. This is commonplace for all Unix commands (i.e. cp file_name.txt .).
+3. Run `docker build -t admin_backend .`. -t is the tag. We can name it whatever. For convenience, we went with admin_backend. The dot means in the current directory. This is commonplace for all Unix commands (i.e. cp file_name.txt .). Make sure to launch Docker Desktop (if Windows) or just regular Docker beforehand!
 4. Build failed! The version used in the initial Dockerfile are not supported by the Gradle packages. Look up [Gradle Docker Images](https://hub.docker.com/_/gradle). In gradle.yml, the version is JDK17. Let's look for a version that supports JDK17. Oh, here's one: `8.7.0-jdk17`. It is assumed alpine is default, so no need to find a specific one. Run build command again.
 5. Build failed! Lots of Java call errors. Test cases seem to not be loading. Turns out at this moment, there is no database. We can ignore this by using the -x flag which excludes tasks. In our case, ignore the test cases. So the build should run...
 6. Build successful! Let's push. But wait, the local is not set to the git provider. SO, let's establish the connection: `git push --set-upstream origin ci/docker`. We can create a pull request but not now.
