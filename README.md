@@ -87,8 +87,6 @@ This repository serves as a record for all course I've taken at [Stevens Institu
 * SSW 590: DevOps Principles and Practices (3 Credits)
 * SYS 625: Fundamentals of Systems Engineering (3 Credits)
 
-## Future Courses
-
 ## Semester IX: Fall 2024 - Masters of Engineering (MEng) in Systems Engineering - Software Systems Concentration (12 Credits)
 
 * SSW 565 - Software Architecture and Component-Based Design (3 Credits)
