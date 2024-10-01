@@ -108,3 +108,151 @@ This repository serves as a record for all course I've taken at [Stevens Institu
 
 * ECO 211 - Principles of Economics I Macroeconomics -> BT 243 - Macroeconomics (3 Credits) [Humanities]
 * ECO 212 - Principles of Economics II Microeconomics -> BT 244 - Microeconomics (3 Credits) [Humanities]
+
+## Computer Engineering
+
+One of the most rapidly growing fields today is computer engineering. This includes the design, development, and application of digital and computer-based systems for the solution of modern engineering problems, as well as computer software development, data structures and algorithms, and computer communications and graphics. The department provides our computer engineering students with the tools and skills necessary to understand and apply today’s technologies and to become leaders in developing tomorrow’s technologies. The program prepares students to pursue professional careers in industry and government, and to continue their education in graduate school, if they choose. </br>
+Students in the computer engineering program begin by studying the scientific foundations that are the basis for all engineering. Specialized electrical engineering, computer engineering, and computer science courses follow, providing depth in the many issues related to computers, data networks, information systems, and related topics used in contemporary commercial and industrial applications. Students may direct their interests into areas such as computer and information systems, software/software engineering, and computer architectures and digital systems. In addition to computer engineering courses, students can draw upon electrical engineering and computer science courses to develop the skills appropriate for their career objectives. In the senior year, students have the opportunity to participate in an actual engineering design project which is taken directly from a current industrial or commercial application.
+
+### Missions and Objectives
+
+The mission of the undergraduate computer engineering program in the Department of Electrical and Computer Engineering is to provide a balanced education in fundamental principles, design methodologies, and practical experiences in computer engineering, general engineering, and physical and mathematical sciences topics through which graduates can enter into and sustain lifelong professional careers of engineering innovation and creativity. </br>
+The overriding objective of the computer engineering program is to provide graduates with the skills and understanding needed to design and build innovative new products and services. They balance the rival requirements of competitive performance/cost and practical constraints imposed by available technologies. </br>
+Graduates of the computer engineering program will:
+
+* Be recognized as innovative technical experts who demonstrate advanced understandings of the state-of-the-art in computer engineering, as well as their professional, social and ethical responsibilities.
+* Emerge as technical leaders through their own individual contributions and their abilities to work with and influence others.
+* Function as effective entrepreneurs who nurture new technologies from concept to commercialization
+
+### Student Outcomes
+
+By the time of graduation, computer engineering students will attain:
+
+1. an ability to identify, formulate, and solve complex engineering problems by applying principles of engineering, science, and mathematics
+2. an ability to apply engineering design to produce solutions that meet specified needs with consideration of public health, safety, and welfare, as well as global, cultural, social, environmental, and economic factors
+3. an ability to communicate effectively with a range of audiences
+4. an ability to recognize ethical and professional responsibilities in engineering situations and make informed judgments, which must consider the impact of engineering solutions in global, economic, environmental, and societal contexts
+5. an ability to function effectively on a team whose members together provide leadership, create a collaborative and inclusive environment, establish goals, plan tasks, and meet objectives
+6. an ability to develop and conduct appropriate experimentation, analyze and interpret data, and use engineering judgment to draw conclusions
+7. an ability to acquire and apply new knowledge as needed, using appropriate learning strategies
+8. a fundamental knowledge and an appreciation of the technology and business processes necessary to nurture new technologies from concept to commercialization.
+
+## Areas of Concentration for Electrical Engineering and Computer Engineering
+
+Electrical and computer engineering students can select their elective courses among four technical electives and three general electives in various ways. Some of them may wish to cluster those electives in ways that would help them gain expertise in an area of specialization within electrical and computer engineering. The following groupings are possible specialty (concentration) areas that students can select from within the electrical and computer engineering program:
+
+### Networks and Security (take 3 of the following courses)
+
+* CPE 490 Information Systems Engineering
+* CPE 579 Foundations of Cryptography
+* EE 582 Wireless Networking: Architectures, Protocols, and Standards
+* EE 584 Wireless Systems Security
+* CPE 592 Computer and Multimedia Network Security
+
+## Minor in Engineering Management - Requirements
+
+* EM 275 Project Management
+* EM 360 Operations Management and Process Engineering
+* EM 480 Managing the Development Enterprise
+
+EM minors take the following courses as part of the Engineering curriculum.
+
+### Required Engineering Core
+
+* E 355 Engineering Economics
+* E 243 Probability and Statistics for Engineers
+* IDE 400/401 Senior Innovation
+* IDE 402 Senior Innovation III
+
+### Required Humanities Core
+
+* BT 243 Macroeconomics
+* BT 244 Microeconomics
+
+An EM minor requires a two-course overload.
+
+## Systems Engineering
+
+The SSE systems engineering graduate program offers a multidisciplinary approach to engineering education by providing a blend of engineering, systems, and management subjects. Our graduates manage engineering and technology, are able to address systems integration, life cycle issues, and systems thinking at the system and enterprise levels, in a market where globalization, technology, quality, complexity, and productivity are the key business drivers. Concentrations are offered in: large-scale cyber-physical systems, embedded cyber-physical systems, space systems and software systems. </br>
+Completion of this program will result in the following Masters of Engineering degree in Systems Engineering with a concentration in:
+
+* Large-Scale Cyber-Physical Systems
+* Embedded Cyber-Physical Systems
+* Space Systems
+* Software Systems
+* unspecified if courses not taken in one concentration, as noted below)
+
+Students satisfying the requirement for the space systems concentration may alternatively receive a degree in Master of Engineering in space systems engineering. Students who, with their advisor’s approval, choose not to complete all of the courses in a single concentration will receive a Master of Engineering in systems engineering degree without a specified concentration. </br>
+The program consists of ten courses (30 credits): six (6) required core courses, three (3) electives and a project or thesis. Three of these six required core courses are selected from one of four concentration areas. </br>
+Students without professional experience beyond the bachelor’s degree who are taking a master’s in systems engineering in a non-software systems concentration must take SYS 581 Introduction to Systems Engineering, preferably in the later stages of the senior design project. SYS 581 should be taken before the Concept, Architecture & Design, Implementation and Sustainment courses, if possible. Students without professional experience taking a concentration in software systems must take SSW 540 Fundamentals of Software Engineering. In addition, they must have competency in software programming. All exceptions require approval of the advisor and systems engineering program director.
+
+### Required Core Courses
+
+* Modeling, Simulation & Analysis:
+  * One of:
+    * SYS 611 Systems Modeling & Simulation
+    * SYS 660 Decision and Risk Analysis
+* Management:
+  * EM 612 Project Management of Complex Systems
+* Concept:
+  * One of:
+    * SYS 625 Fundamentals of Systems Engineering
+    * SYS 671 Conception of CPS: Deciding What to Build and Why
+* Architecture & Design – Concentration (noted below)
+* Implementation – Concentration (noted below)
+* Sustainment – Concentration (noted below)
+
+### Concentration
+
+One course must be taken from each of the three (3) areas: Architecture & Design, Implementation, and Sustainment. To receive a concentration, these courses must be taken from a single concentration area. The following are the courses for Large-Scale Systems, Cyber-Physical Systems, Space Systems, and Software Systems concentrations. </br>
+</br>
+
+*Large-Scale Cyber-Phyiscal Systems* </br>
+
+* Architecture & Design:
+  * SYS 650 System Architecture and Design
+* Implementation:
+  * SYS 605 Systems Integration
+* Sustainment:
+  * One of the following:
+    * SYS 640 System Supportability and Logistics and Supportability
+    * SYS 645 Design for System Reliability, Maintainability, and Supportability
+
+*Embedded Cyber-Physical Systems* </br>
+
+* Architecture & Design:
+  * SYS 672 Design of CPS: Ensuring Systems Work and are Robust
+* Implementation:
+  * SYS 673 Implementation of CPS: Bringing Solutions to Life
+* Sustainment:
+  * SYS 674 Sustainment of CPS: Managing Evolution
+
+*Space Systems* </br>
+
+* Architecture & Design:
+  * One of the following:
+    * SYS 632 Designing Space Missions and Systems
+    * SYS 635 Human Spaceflight
+* Implementation:
+  * One of the following:
+    * SYS 633 Mission and System Design, Verification and Validation
+    * SYS 605 Systems Integration
+* Sustainment:
+  * SYS 637 Cost-Effective Space Mission Operations
+
+*Software Systems* </br>
+
+* Architecture & Design:
+  * SSW 565 Software Architecture and Component-Based Design
+* Implementation:
+  * SSW 567 Software Testing, Quality Assurance, and Maintenance
+* Sustainment:
+  * SSW 590 Devops Principles and Practice
+
+### Electives
+
+Three (3) advisor approved electives [nine (9) credits] can be chosen from SSE course offerings in (SYS) systems engineering, (SSW) software engineering, (EM) engineering management, (ES) socio-technical systems, (SES) systems engineering security or advisor approved courses. SYS 611, SYS 660 and SYS 645, if not already taken, are strongly recommended as electives.
+
+### Project or Thesis
+
+At least three (3) credits and up to six (6) credits, must be applied towards a project (SYS 800 Special Problems in Systems Engineering), or a thesis (SYS 900 Thesis in Systems Engineering). If a thesis is chosen instead of a project, the completion of six (6) credits of SYS 900 is required, replacing SYS 800 and one elective course. The project or theses should be in the concentration area.
